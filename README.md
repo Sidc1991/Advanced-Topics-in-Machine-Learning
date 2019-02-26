@@ -1,1 +1,1 @@
-# Advanced-Topics-in-Machine-Learning
+# Advanced Topics in Machine-Learning
