@@ -12,9 +12,12 @@ Expanding on SVM topics covered in introductory machine learning modules, I have
 
 Additionally it might be worth looking into Prof. John Shawe-Taylor and Nello Cristianini's excellent introduction to SVM and kernel methods:
 
-![alt text](https://d3525k1ryd2155.cloudfront.net/f/193/780/9780521780193.BX.0.m.jpg)
+![SVM Kernel](https://d3525k1ryd2155.cloudfront.net/f/193/780/9780521780193.BX.0.m.jpg)
 
 ## 3) Pattern Recognition and Machine Learning - Bishop
 
 One Book to rule them all, One Book to find them,
+
 One Book to bring them all and in the probability bind them.
+
+![Bishop](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_zpFlp7TjHZhkLEXo5Msg_JAncIxyliW89aeECxr2npYKvFrL)
