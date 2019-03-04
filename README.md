@@ -2,7 +2,7 @@
 This repository contains the following:
 
 ## 1) Applied Machine Learning Notes:
-Notes from [COMP0091](http://www.cs.ucl.ac.uk/1819/A7P/T2/COMP0081_Applied_Machine_Learning/) 2017-18 edition of the course. Covers a range of ML topics needed for efficient large-scale machine learning implementation.
+Notes from [COMP0081](http://www.cs.ucl.ac.uk/1819/A7P/T2/COMP0081_Applied_Machine_Learning/) 2017-18 edition of the course. Covers a range of ML topics needed for efficient large-scale machine learning implementation.
 
 ## 2) Approximate Inference and Unsupervised Learning Notes and Assignments:
 This course is taken by the Gatsby Computational and Neuroscience Unit at UCL. It is an in-depth introduction to statistical modelling, unsupervised, and some supervised learning techniques. It presents probabilistic approaches to modelling and their relation to coding theory and Bayesian statistics. A variety of latent variable models are covered including mixture models (used for clustering), dimensionality reduction methods, time series models such as hidden Markov models which are used in speech recognition and bioinformatics, Gaussian process models, independent components analysis, hierarchical models, and nonlinear models. The course will present the foundations of probabilistic graphical models (e.g. Bayesian networks and Markov networks) as an overarching framework for unsupervised modelling. 
